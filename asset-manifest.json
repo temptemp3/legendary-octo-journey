@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/fictional-journey/static/css/main.d671c7f8.chunk.css",
-    "main.js": "/fictional-journey/static/js/main.a9cf2c80.chunk.js",
-    "main.js.map": "/fictional-journey/static/js/main.a9cf2c80.chunk.js.map",
-    "runtime-main.js": "/fictional-journey/static/js/runtime-main.cbaab2ab.js",
-    "runtime-main.js.map": "/fictional-journey/static/js/runtime-main.cbaab2ab.js.map",
+    "main.js": "/fictional-journey/static/js/main.4cb23057.chunk.js",
+    "main.js.map": "/fictional-journey/static/js/main.4cb23057.chunk.js.map",
+    "runtime-main.js": "/fictional-journey/static/js/runtime-main.6eb7a35e.js",
+    "runtime-main.js.map": "/fictional-journey/static/js/runtime-main.6eb7a35e.js.map",
     "static/css/2.818011ed.chunk.css": "/fictional-journey/static/css/2.818011ed.chunk.css",
-    "static/js/2.a5a61118.chunk.js": "/fictional-journey/static/js/2.a5a61118.chunk.js",
-    "static/js/2.a5a61118.chunk.js.map": "/fictional-journey/static/js/2.a5a61118.chunk.js.map",
-    "static/js/3.00b45fa9.chunk.js": "/fictional-journey/static/js/3.00b45fa9.chunk.js",
-    "static/js/3.00b45fa9.chunk.js.map": "/fictional-journey/static/js/3.00b45fa9.chunk.js.map",
+    "static/js/2.4de9babe.chunk.js": "/fictional-journey/static/js/2.4de9babe.chunk.js",
+    "static/js/2.4de9babe.chunk.js.map": "/fictional-journey/static/js/2.4de9babe.chunk.js.map",
+    "static/js/3.689e0002.chunk.js": "/fictional-journey/static/js/3.689e0002.chunk.js",
+    "static/js/3.689e0002.chunk.js.map": "/fictional-journey/static/js/3.689e0002.chunk.js.map",
     "index.html": "/fictional-journey/index.html",
     "static/css/2.818011ed.chunk.css.map": "/fictional-journey/static/css/2.818011ed.chunk.css.map",
     "static/css/main.d671c7f8.chunk.css.map": "/fictional-journey/static/css/main.d671c7f8.chunk.css.map",
-    "static/js/2.a5a61118.chunk.js.LICENSE.txt": "/fictional-journey/static/js/2.a5a61118.chunk.js.LICENSE.txt",
+    "static/js/2.4de9babe.chunk.js.LICENSE.txt": "/fictional-journey/static/js/2.4de9babe.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fictional-journey/static/media/search.eb876052.svg",
     "static/media/logo.724235a5.svg": "/fictional-journey/static/media/logo.724235a5.svg",
     "static/media/nftjam.3047fa76.svg": "/fictional-journey/static/media/nftjam.3047fa76.svg",
     "static/media/wallet.f34f0aab.svg": "/fictional-journey/static/media/wallet.f34f0aab.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbaab2ab.js",
+    "static/js/runtime-main.6eb7a35e.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.a5a61118.chunk.js",
+    "static/js/2.4de9babe.chunk.js",
     "static/css/main.d671c7f8.chunk.css",
-    "static/js/main.a9cf2c80.chunk.js"
+    "static/js/main.4cb23057.chunk.js"
   ]
 }
