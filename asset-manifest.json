@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fictional-journey/static/css/main.d671c7f8.chunk.css",
-    "main.js": "/fictional-journey/static/js/main.59596eb5.chunk.js",
-    "main.js.map": "/fictional-journey/static/js/main.59596eb5.chunk.js.map",
+    "main.js": "/fictional-journey/static/js/main.517cf262.chunk.js",
+    "main.js.map": "/fictional-journey/static/js/main.517cf262.chunk.js.map",
     "runtime-main.js": "/fictional-journey/static/js/runtime-main.cbaab2ab.js",
     "runtime-main.js.map": "/fictional-journey/static/js/runtime-main.cbaab2ab.js.map",
     "static/css/2.818011ed.chunk.css": "/fictional-journey/static/css/2.818011ed.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a5a61118.chunk.js",
     "static/css/main.d671c7f8.chunk.css",
-    "static/js/main.59596eb5.chunk.js"
+    "static/js/main.517cf262.chunk.js"
   ]
 }
