@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d0a41ff.chunk.css",
-    "main.js": "/static/js/main.47e7c898.chunk.js",
-    "main.js.map": "/static/js/main.47e7c898.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba1867af.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba1867af.js.map",
-    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
-    "static/js/2.17f27e3c.chunk.js": "/static/js/2.17f27e3c.chunk.js",
-    "static/js/2.17f27e3c.chunk.js.map": "/static/js/2.17f27e3c.chunk.js.map",
-    "static/js/3.2debe01e.chunk.js": "/static/js/3.2debe01e.chunk.js",
-    "static/js/3.2debe01e.chunk.js.map": "/static/js/3.2debe01e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.1d0a41ff.chunk.css.map": "/static/css/main.1d0a41ff.chunk.css.map",
-    "static/js/2.17f27e3c.chunk.js.LICENSE.txt": "/static/js/2.17f27e3c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/search.eb876052.svg",
-    "static/media/logo.724235a5.svg": "/static/media/logo.724235a5.svg",
-    "static/media/nftjam.3047fa76.svg": "/static/media/nftjam.3047fa76.svg",
-    "static/media/wallet.f34f0aab.svg": "/static/media/wallet.f34f0aab.svg"
+    "main.css": "/fictional-journey/static/css/main.ac10ba4b.chunk.css",
+    "main.js": "/fictional-journey/static/js/main.ec8b43f9.chunk.js",
+    "main.js.map": "/fictional-journey/static/js/main.ec8b43f9.chunk.js.map",
+    "runtime-main.js": "/fictional-journey/static/js/runtime-main.962ef29a.js",
+    "runtime-main.js.map": "/fictional-journey/static/js/runtime-main.962ef29a.js.map",
+    "static/css/2.818011ed.chunk.css": "/fictional-journey/static/css/2.818011ed.chunk.css",
+    "static/js/2.45b54b0f.chunk.js": "/fictional-journey/static/js/2.45b54b0f.chunk.js",
+    "static/js/2.45b54b0f.chunk.js.map": "/fictional-journey/static/js/2.45b54b0f.chunk.js.map",
+    "static/js/3.2debe01e.chunk.js": "/fictional-journey/static/js/3.2debe01e.chunk.js",
+    "static/js/3.2debe01e.chunk.js.map": "/fictional-journey/static/js/3.2debe01e.chunk.js.map",
+    "index.html": "/fictional-journey/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/fictional-journey/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ac10ba4b.chunk.css.map": "/fictional-journey/static/css/main.ac10ba4b.chunk.css.map",
+    "static/js/2.45b54b0f.chunk.js.LICENSE.txt": "/fictional-journey/static/js/2.45b54b0f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fictional-journey/static/media/search.eb876052.svg",
+    "static/media/logo.724235a5.svg": "/fictional-journey/static/media/logo.724235a5.svg",
+    "static/media/nftjam.3047fa76.svg": "/fictional-journey/static/media/nftjam.3047fa76.svg",
+    "static/media/wallet.f34f0aab.svg": "/fictional-journey/static/media/wallet.f34f0aab.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba1867af.js",
+    "static/js/runtime-main.962ef29a.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.17f27e3c.chunk.js",
-    "static/css/main.1d0a41ff.chunk.css",
-    "static/js/main.47e7c898.chunk.js"
+    "static/js/2.45b54b0f.chunk.js",
+    "static/css/main.ac10ba4b.chunk.css",
+    "static/js/main.ec8b43f9.chunk.js"
   ]
 }
