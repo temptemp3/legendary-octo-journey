@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1d0a41ff.chunk.css",
-    "main.js": "/static/js/main.31a83f0d.chunk.js",
-    "main.js.map": "/static/js/main.31a83f0d.chunk.js.map",
+    "main.js": "/static/js/main.80f0b223.chunk.js",
+    "main.js.map": "/static/js/main.80f0b223.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1867af.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba1867af.js.map",
     "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/App.css": "/static/media/search.eb876052.svg",
     "static/media/logo.724235a5.svg": "/static/media/logo.724235a5.svg",
     "static/media/nftjam.3047fa76.svg": "/static/media/nftjam.3047fa76.svg",
+    "static/media/rocket.e3dec580.png": "/static/media/rocket.e3dec580.png",
     "static/media/wallet.f34f0aab.svg": "/static/media/wallet.f34f0aab.svg"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.e95cfa1d.chunk.js",
     "static/css/main.1d0a41ff.chunk.css",
-    "static/js/main.31a83f0d.chunk.js"
+    "static/js/main.80f0b223.chunk.js"
   ]
 }
